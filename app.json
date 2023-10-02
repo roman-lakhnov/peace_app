@@ -8,6 +8,12 @@
       "expo-router"
     ],
     "name": "peace_app",
-    "slug": "peace_app"
+    "slug": "peace_app",
+    "android": {
+      "package": "com.kineri.peace_app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.kineri.peace.app.ios"
+    }
   }
 }
